@@ -1,0 +1,24 @@
+138;;;2;;;Ahmad;;;222;;;Mamak;;;dine-in;;;Teh;;;2023-12-09 12:28:49;;;Taman;;;finish
+934;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Juice;;;2023-12-09 12:30:29;;;Jalil;;;finish
+934;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Burger;;;2023-12-09 12:30:29;;;Jalil;;;finish
+269;;;2;;;Ahmad;;;222;;;Mamak;;;dine-in;;;Teh;;;2023-12-09 15:23:58;;;Bukit;;;cancelled
+414;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Juice;;;2023-12-09 15:57:56;;;Red Apartment;;;cancelled
+829;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-09 17:15:58;;;Bukit Bintang;;;cancelled
+42;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-09 17:18:08;;;Jalil;;;cancelled
+481;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-09 17:44:54;;;Bukit;;;cancelled
+296;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Fried Chicken;;;2023-12-09 18:03:37;;;Taman Ciken;;;finish;;;runnerid;;;runnername;;;runnerstatus
+61;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-09 19:22:20;;;Avenue Red;;;finish
+162;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Burger;;;2023-12-09 23:49:10;;;Bukit;;;finish;;;runnerid;;;runnername;;;runnerstatus
+887;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Burger;;;2023-12-09 23:53:00;;;Bukit;;;cancelled
+833;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-10 16:35:09;;;Bukit;;;cancelled
+522;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Juice;;;2023-12-10 18:27:32;;;Bukit Jalil;;;finish;;;runnerid;;;runnername;;;runnerstatus
+129;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Juice;;;2023-12-10 18:58:10;;;Bukit Jalil;;;finish;;;runnerid;;;runnername;;;runnerstatus
+941;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Burger;;;2023-12-10 19:44:19;;;Jalil;;;finish
+958;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Burger;;;2023-12-10 21:16:19;;;Bukit Jalil;;;accepted;;;runnerid;;;runnername;;;runnerstatus
+694;;;3;;;Jeniffer;;;111;;;KFC;;;takeaway;;;Juice;;;2023-12-10 21:30:00;;;Ken Garden;;;finish
+924;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Juice;;;2023-12-10 22:35:34;;;Bukit Jalil;;;cancelled
+633;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Juice;;;2023-12-10 23:23:03;;;Red Apartment;;;paid
+564;;;2;;;Ahmad;;;111;;;KFC;;;dine-in;;;Burger;;;2023-12-10 23:54:00;;;Jaya Bintang;;;finish
+185;;;2;;;Ahmad;;;111;;;KFC;;;takeaway;;;Fried Chicken;;;2023-12-11 00:18:56;;;Kali Garden;;;finish
+920;;;2;;;Ahmad;;;111;;;KFC;;;delivery;;;Juice;;;2023-12-11 00:25:15;;;TeaHouse;;;cancelled
+259;;;2;;;Ahmad;;;111;;;KFC;;;dine-in;;;Burger;;;2023-12-11 00:33:05;;;Bukit Ferra;;;declined

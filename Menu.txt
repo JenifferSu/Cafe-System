@@ -1,0 +1,8 @@
+111;;;KFC;;;Fried Chicken;;;10.0
+111;;;KFC;;;Juice;;;3.0
+111;;;KFC;;;Burger;;;5.0
+222;;;Mamak;;;Roti;;;3.0
+222;;;Mamak;;;Teh;;;2.0
+222;;;Mamak;;;Fried Rice;;;8.0
+111;;;KFC;;;Milk Tea;;;5.0
+111;;;KFC;;;Maggi;;;3.0

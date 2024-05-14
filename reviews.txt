@@ -1,0 +1,9 @@
+934;;;2;;;Ahmad;;;111;;;KFC;;;Tasty;;;5.0
+296;;;2;;;Ahmad;;;111;;;KFC;;;good!;;;4.0
+61;;;2;;;Ahmad;;;111;;;KFC;;;Love it;;;4.0
+162;;;2;;;Ahmad;;;111;;;KFC;;;Nice food!Love it!;;;4.8
+522;;;2;;;Ahmad;;;222;;;Mamak;;;Nice food!;;;4.8
+129;;;2;;;Ahmad;;;111;;;KFC;;;I love the food so much!;;;5.0
+941;;;2;;;Ahmad;;;111;;;KFC;;;Will order again!;;;5.0
+694;;;3;;;Jeniffer;;;111;;;KFC;;;Food taste nice!;;;4.8
+138;;;2;;;Ahmad;;;222;;;Mamak;;;I love the food!;;;5.0
