@@ -3,4 +3,4 @@ This is my project that streamline the food order-taking process by connecting d
 # Language Using
 I'm using java to create the entire system. Kindly check out my java code file (https://github.com/JenifferSu/Cafe-System/tree/Java-code) above to see how my program works.
 
-**Please follow For Further Project Sharing XD **
+Please follow For Further Project Sharing XD 
